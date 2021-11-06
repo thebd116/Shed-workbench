@@ -16,6 +16,11 @@ https://www.bunnings.com.au/treated-pine-outdoor-timber-framing-90-x-45mm_p80321
 
 https://www.bunnings.com.au/treated-pine-outdoor-timber-framing-140-x-45mm_p8032254
 
+MDF 1200 x 2400mm
+https://www.bunnings.com.au/18mm-standard-mdf_p0590060
+
 ## based on
 
 https://www.shanty-2-chic.com/2014/01/dig-workbench-free-plans.html
+
+
