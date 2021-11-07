@@ -66,5 +66,6 @@ total length
 | 1    | 45 x 140 x 1000 | 1000mm |
 
 
+![top_off](Workbench_top_off.png)
 
-
+![top_on](Workbench_top_on.png)
