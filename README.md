@@ -1,10 +1,6 @@
 # Shed Workbench
 
-max length 2950mm
-
-2970mm between beams however allowing 20mm
-
-max width not concerned
+length 2950mm
 
 ## supplies
 
